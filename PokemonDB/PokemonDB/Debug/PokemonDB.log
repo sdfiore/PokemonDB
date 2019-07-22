@@ -1,0 +1,5 @@
+﻿  PokemonDB.cpp
+  Source.cpp
+  Generating Code...
+D:\My Projects\github portfolio\PokemonDB\PokemonDB\PokemonDB.cpp(64,16): warning C4018:  '<': signed/unsigned mismatch
+  PokemonDB.vcxproj -> D:\My Projects\github portfolio\PokemonDB\Debug\PokemonDB.exe

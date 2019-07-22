@@ -1,0 +1,453 @@
+Bulbasaur
+Grass Poison
+001
+Ivysaur
+Grass Poison
+002
+Venasaur
+Grass Poison
+003
+Charmander
+Fire
+004
+Charmeleon
+Fire
+005
+Charizard
+Fire Flying
+006
+Squirtle
+Water
+007
+Wartortle
+Water
+008
+Blastoise
+Water
+009
+Caterpie
+Bug
+010
+Metapod
+Bug
+011
+Butterfree
+Bug
+012
+Weedle
+Bug Poison
+013
+Kakuna
+Bug Poison
+014
+Beedrill
+Bug Poison
+015
+Pidgey
+Normal Flying
+016
+Pidgeotto
+Normal Flying
+017
+Pidgeot
+Normal Flying
+018
+Rattata
+Normal
+019
+Raticate
+Normal
+020
+Spearow
+Normal Flying
+021
+Fearow
+Normal Flying
+022
+Ekans
+Poison
+023
+Arbok
+Poison
+024
+Pikachu
+Electric
+025
+Raichu
+Electric
+026
+Sandshrew
+Ground
+027
+Sandslash
+Ground
+028
+Nidoran
+Poison
+029
+Nidorina
+Poison
+030
+Nidoqueen
+Poison Grodun
+031
+Nidoran
+Poison
+032
+Nidorino
+Poison
+033
+Nidokind
+Poison Ground
+034
+Clefairy
+Fairy
+035
+Clefable
+Fairy
+036
+Vulpix
+Fire
+037
+Ninetales
+Fire
+038
+Jigglypuff
+Normal Fairy
+039
+Wigglytuff
+Noraml Fairy
+040
+Zubat
+Poison Flying
+041
+Golbat
+Poison Flying
+042
+Oddish
+Grass Poison
+043
+Gloom
+Grass Poison
+044
+Vileplume
+Grass Poison
+045
+Paras
+Bug Grass
+046
+Parasect
+Bug Grass
+047
+Venonat
+Bug Poison
+048
+Venomoth
+Bug Poison
+049
+Diglett
+Ground
+050
+Dugtrio
+Ground
+051
+Meowth
+Noraml
+052
+Persian
+Noraml
+053
+Psyduck
+Water
+054
+Golduck
+Water
+055
+Mankey
+Fighting
+056
+Primeape
+Fighting
+057
+Growlithe
+Fire
+058
+Arcanine
+Fire
+059
+Poliwag
+Water
+060
+Poliwhirl
+Water
+061
+Poliwrath
+Water Fighting
+062
+Abra
+Psychic
+063
+Kadabra
+Psychic
+064
+Alakazam
+Psychic
+065
+Machop
+Fighting
+066
+Machoke
+Fighting
+067
+Machamp
+Fighting
+068
+Bellsprout
+Grass Poison
+069
+Weepinbell
+Grass Poison
+070
+Victreebel
+Grass Poison
+071
+Tentacool
+Water Poison
+072
+Tentacruel
+Water Poison
+073
+Geodude
+Rock Ground
+074
+Graveler
+Rock Ground
+075
+Golem
+Rock Ground
+076
+Ponyta
+Fire
+077
+Rapidash
+Fire
+078
+Slowpoke
+Water Psychic
+079
+Slowbro
+Water Psychic
+080
+Magnemite
+Electric Steel
+081
+Magneton
+Electric Steel
+082
+Farfetch'd
+Noraml Flying
+083
+Doduo
+Normal Flying
+084
+Dotrio
+Normal Flying
+085
+Seel
+Water
+086
+Dewgong
+Water Ice
+087
+Grimer
+Poison
+088
+Muk
+Poison
+089
+Shellder
+Water
+090
+Cloyster
+Water Ice
+091
+Gastly
+Ghost Poison
+092
+Hauntzer
+Ghost Poison
+093
+Gengar
+Ghost Poison
+094
+Onix
+Rock Ground
+095
+Drowzee
+Psychic
+096
+Hypno
+Psychic
+097
+Krabby
+Water
+098
+Kingler
+Water
+099
+Voltorb
+Electric
+100
+Electrode
+Electric
+101
+Exeggcute
+Grass Psychic
+102
+Exeggutor
+Grass Psychic
+103
+Cubone
+Ground
+104
+Marowak
+Ground
+105
+Hitmonlee
+Fighting
+106
+Hitmonchan
+Fighting
+107
+Lickitung
+Normal
+108
+Koffing
+Poison
+109
+Weezing
+Poison
+110
+Rhyhorn
+Ground Rock
+111
+Rhydon
+Ground Rock
+112
+Chansey
+Normal
+113
+Tangela
+Grass
+114
+Kangaskhan
+Normal
+115
+Horsea
+Water
+116
+Seadra
+Water
+117
+Goldeen
+Water
+118
+Seaking
+Water
+119
+Staryu
+Water
+120
+Starmie
+Water Psychic
+121
+Mr. Mime
+Psychic Fairy
+122
+Scyther
+Bug Flying
+123
+Jynx
+Ice Psychic
+124
+Electabuzz
+Electric
+125
+Magmar
+Fire
+126
+Pinsir
+Bug
+127
+Tauros
+Normal
+128
+Magikarp
+Water
+129
+Gyrados
+Water Flying
+130
+Lapras
+Water Ice
+131
+Ditto
+Normal
+132
+Eevee
+Normal
+133
+Vaporeon
+Water
+134
+Jolteon
+Electric
+135
+Flareon
+Fire
+136
+Porygon
+Normal
+137
+Omanyte
+Rock Water
+138
+Omastar
+Rock Water
+139
+Kabuto
+Rock Water
+140
+Kabutops
+Rock Water
+141
+Aerodactyl
+Rock Flying
+142
+Snorlax
+Normal
+143
+Articuno
+Ice Flying
+144
+Zapdos
+Electric Flying
+145
+Moltres
+Fire Flying
+146
+Dratini
+Dragon
+147
+Dragonair
+Dragon
+148
+Dragonite
+Dragon Flying
+149
+Mewtwo
+Psychic
+150
+Mew
+Psychic
+151
