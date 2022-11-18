@@ -89,7 +89,7 @@ Nidorina
 Poison
 030
 Nidoqueen
-Poison Grodun
+Poison Ground
 031
 Nidoran
 Poison
@@ -116,7 +116,7 @@ Jigglypuff
 Normal Fairy
 039
 Wigglytuff
-Noraml Fairy
+Normal Fairy
 040
 Zubat
 Poison Flying
@@ -152,10 +152,10 @@ Dugtrio
 Ground
 051
 Meowth
-Noraml
+Normal
 052
 Persian
-Noraml
+Normal
 053
 Psyduck
 Water
@@ -245,7 +245,7 @@ Magneton
 Electric Steel
 082
 Farfetch'd
-Noraml Flying
+Normal Flying
 083
 Doduo
 Normal Flying
